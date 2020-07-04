@@ -1,0 +1,19 @@
+body {
+    background-color: #e5e4cc;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+h1, h3, th, p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #698474;
+}
+
+td {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: #889e81;   
+}
